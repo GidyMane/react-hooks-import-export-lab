@@ -3,7 +3,7 @@ import NavBar  from "./NavBar"
 import Home from "./Home"
 import About from "./About"
 
-
+//test
 function App() {
   return (
     <div>
@@ -13,5 +13,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
